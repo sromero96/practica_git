@@ -1,5 +1,5 @@
 # Practica GIT
 
-# Joan Romero
+# Joan Romero - Cambio 1
 
 # Rama Develop
